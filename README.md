@@ -39,8 +39,22 @@ Symptoms Input → Disease Prediction → Treatment Output
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-(Add images here from your paper — VERY IMPORTANT)
+### 🔐 Login Page
+![Login](assets/login.png)
+
+### 📤 Upload / Webcam
+![Upload](assets/upload.png)
+
+### 🧠 Predictions
+![Prediction](assets/predict.png)
+
+### 📊 Confidence Graph
+![Graph](assets/graph.png)
+
+### 💊 Disease Prediction
+![Disease](assets/disease_prediction.png)
 
 ---
 
