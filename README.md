@@ -56,6 +56,9 @@ Symptoms Input → Disease Prediction → Treatment Output
 ### 💊 Disease Prediction
 ![Disease](assets/disease_prediction.png)
 
+## 🧪 Test Case 2
+
+![Test Case 2](assets/testcase-2.png)
 ---
 
 ## ⚙️ Installation
